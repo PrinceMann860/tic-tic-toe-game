@@ -1,2 +1,2 @@
 # tic-tic-toe-game
-tic tac toe game (0-X) game 
+The Tic Tac Toe game project, created using Python, is a classic implementation of the popular game that runs seamlessly in the terminal. This project showcases fundamental programming skills, including the use of control structures, functions, and user input handling. The game features a simple yet interactive interface where two players take turns to mark their symbols (X or O) on a 3x3 grid. It checks for winning conditions after each move and declares the winner or a draw accordingly.
